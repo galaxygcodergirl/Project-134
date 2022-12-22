@@ -1,0 +1,24 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#status, #start, #no_of_objects
+{
+font-size: 18px;
+background-image: linear-gradient(to right, blue , purple);
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    box-shadow: 10px 10px 10px whitesmoke;
+    border-radius: 10px;
+    margin-top: 30px;
+}
+#note{
+    font-size: 20px;
+    color: aliceblue;
+}
